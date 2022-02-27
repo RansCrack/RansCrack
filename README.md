@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RansCrack
+- 👀 I’m interested in learning programming to become a software engineer.
+- 🌱 I’m currently learning this.
+- 📫 You can reach me @ranvirnatt@gmail.com
